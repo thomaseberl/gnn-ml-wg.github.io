@@ -24,4 +24,5 @@ The WG initially intends to focus on:
 
 # Coordinators
 * Andreas Søgaard (IceCube) - <andreas.sogaard@nbi.ku.dk>
+* Alba Domi (KM3NeT, IceCube) - <alba.domi@fau.de>
 * Thomas Eberl (KM3NeT) - <thomas.eberl@fau.de>
